@@ -3,7 +3,7 @@
 ## Description
 This is a full-stack To-Do List application built using React for the front-end and Node.js with Express.js for the back-end. The application allows users to create, read, update, and delete to-do items. It also features user authentication using JWT.
 
-![App Screenshot](https://ibb.co/BtyW6Ys)
+![App Screenshot](https://i.ibb.co/xD19gr5/Screenshot-from-2024-06-09-19-28-58.png)
 
 ## Features
 - User Signup/Signin
@@ -71,7 +71,8 @@ The project is structured into two main parts: the front-end and the back-end.
 - Add Debounce to the requests
 - Breakind down commits and git push
 - Use more strict linting and lint-staged
+- Better design to improve user experience
 - Containerize the application using docker
-- Use Icons instead of Texts for some buttons
+- Use SVG Icons instead of Texts for some buttons
 - Modulize the components, services and hooks more
 - Improve validation in backend for post requests as even empty string can be used for sign up or sign in
